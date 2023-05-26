@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Eclips-2C2255?style=for-the-badge&logo=Eclips&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Eclips-2C2255?style=for-the-badge&logo=Eclips IDE&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
   
