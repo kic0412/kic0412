@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=00ffff&text=KyungMok's&nbsp;GitHub&animation=twinkling&fontColor=ffffff)
+</div>
+
+<br>
 
 ### Hi there 👋
 
@@ -16,7 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h1>📚 STACKS</h1></div>
+<br>
+<div align=center><h1> 🔨STACKS </h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -45,8 +51,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+<br>
+<div align=center><h1> 📚STATS </h1></div>
 
-<div align=center><h1>STATS</h1></div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kic0412&show_icons=true&theme=radical)
+<div align=center>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kic0412&show_icons=true&theme=radical)
+</div>
 
