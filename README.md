@@ -34,10 +34,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  <br>
-  
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br>
@@ -49,6 +45,5 @@ Here are some ideas to get you started:
 
 <div align=center><h1>STATS</h1></div>
 
-<div alignt=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kic0412&show_icons=true&theme=radical)
- </div>
+
