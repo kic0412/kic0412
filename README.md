@@ -9,7 +9,7 @@
   <h1>Hi there 👋</h1>
   <p>My name is KyungMok Kim</p>
   <p>I'm learning various coding tools including Java</p>
-  <p>look forward to my growth, thank you for</p>
+  <p>look forward to my growth, thank you</p>
 </div>
 
 
